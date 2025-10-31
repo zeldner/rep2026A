@@ -1,3 +1,6 @@
+/**
+ * SharedData Class
+ */
 public class SharedData 
 {
 	private int [] array;
