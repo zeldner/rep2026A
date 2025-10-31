@@ -8,6 +8,10 @@ public class SharedData
 	private boolean flag;
 	private final int b;
 	
+	/**
+	 * @param array
+	 * @param b
+	 */
 	public SharedData(int[] array, int b) {
 		
 		this.array = array;
