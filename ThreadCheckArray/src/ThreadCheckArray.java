@@ -6,6 +6,10 @@ public class ThreadCheckArray implements Runnable
 	int[] array;
 	int b;
 	
+	/**
+	 * ThreadCheckArray class
+	 * @param sd
+	 */
 	public ThreadCheckArray(SharedData sd) 
 	{
 		this.sd = sd;	
